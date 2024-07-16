@@ -2,5 +2,3 @@ PyPDF2
 pdfrw
 PyMuPDF
 pdf2image
-PIL
-io
