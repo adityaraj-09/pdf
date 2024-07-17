@@ -1,5 +1,5 @@
 import streamlit as st
-from PyPDF2 import PdfFileReader, PdfFileWriter,PdfReader as reader
+from PyPDF2 import PdfFileReader, PdfFileWriter,PdfReader as reader,PdfWriter as write
 from pdfrw import  PdfWriter,PdfReader
 import fitz
 from pdf2image import convert_from_bytes
@@ -96,32 +96,37 @@ def reorder_pages(input_pdf, page_order, output_pdf):
         writer.write(f)
 
 # Function to lock PDF
-def lock_pdf(input_pdf, password, output_pdf):
-    reader = PdfReader(input_pdf)
-    writer = PdfWriter()
+def lock_pdf(input_pdf, password):
+    input_pdf = reader(input_pdf)
+    writer = write()
 
     # Add all pages to the writer
-    for page in reader.pages:
-        writer.add_page(page)
-    
+    for page_num in range(len(input_pdf.pages)):
+        writer.add_page(input_pdf.pages[page_num])
+
     # Encrypt PDF
     writer.encrypt(password)
-    
-    with open(output_pdf, "wb") as f:
-        writer.write(f)
+
+    # Create an output stream for the encrypted PDF
+    output_pdf_stream = BytesIO()
+    writer.write(output_pdf_stream)
+    output_pdf_stream.seek(0)  # Move the cursor to the start of the stream
+    return output_pdf_stream
 
 # Function to unlock PDF
-def unlock_pdf(input_pdf, password, output_pdf):
-    reader = PdfReader(input_pdf)
+def unlock_pdf(input_pdf, password):
+    r = reader(input_pdf)
     if reader.is_encrypted:
-        reader.decrypt(password)
+        reader.decrypt(self=r,password=password)
     
-    writer = PdfWriter()
-    for page in reader.pages:
+    writer = write()
+    for page in r.pages:
         writer.add_page(page)
     
-    with open(output_pdf, "wb") as f:
-        writer.write(f)
+    output_pdf_stream = BytesIO()
+    writer.write(output_pdf_stream)
+    output_pdf_stream.seek(0)  # Move the cursor to the start of the stream
+    return output_pdf_stream
 
 def pdf_to_thumbnails(pdf_file, num_pages=10):
     """Generate thumbnails for the first 'num_pages' of the PDF."""
@@ -253,9 +258,8 @@ def main():
         password = st.text_input("Enter Password for PDF", type="password")
         if pdf_file and password:
             if st.button("Lock PDF"):
-                output = BytesIO()
-                lock_pdf(pdf_file, password, output)
-                st.download_button("Download Locked PDF", output, file_name="locked.pdf")
+                output_pdf_stream = lock_pdf(pdf_file, password)
+                st.download_button("Download Locked PDF", output_pdf_stream, file_name="locked.pdf", mime="application/pdf")
 
     elif choice == "Unlock PDF":
         st.header("Unlock PDF")
@@ -263,9 +267,8 @@ def main():
         password = st.text_input("Enter Password for PDF", type="password")
         if pdf_file and password:
             if st.button("Unlock PDF"):
-                output = BytesIO()
-                unlock_pdf(pdf_file, password, output)
-                st.download_button("Download Unlocked PDF", output, file_name="unlocked.pdf")
+                output_pdf_stream = unlock_pdf(pdf_file, password)
+                st.download_button("Download Unlocked PDF", output_pdf_stream, file_name="unlocked.pdf", mime="application/pdf")
 
     elif choice == "Convert Images to PDF":
         st.header("Convert Images to PDF")
