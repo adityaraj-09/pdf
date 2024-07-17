@@ -1,11 +1,27 @@
 import streamlit as st
-from PyPDF2 import PdfFileReader, PdfFileWriter
-from pdfrw import PdfReader, PdfWriter
+from PyPDF2 import PdfFileReader, PdfFileWriter,PdfReader as reader
+from pdfrw import  PdfWriter,PdfReader
 import fitz
 from pdf2image import convert_from_bytes
 from io import  BytesIO 
 from PIL import Image
+from gtts import gTTS
 
+
+
+
+# def summarize_text(text):
+#     summarizer = pipeline("summarization")
+#     # Split the text into chunks if it's too long
+#     max_chunk = 500  # You can adjust this based on the model's max token limit
+#     text_chunks = [text[i:i + max_chunk] for i in range(0, len(text), max_chunk)]
+    
+#     summarized_text = ""
+#     for chunk in text_chunks:
+#         summary = summarizer(chunk, max_length=100, min_length=30, do_sample=False)
+#         summarized_text += summary[0]['summary_text']
+
+#     return summarized_text
 
 def pdf_to_images(pdf_file):
     return convert_from_bytes(pdf_file.read())
@@ -121,13 +137,30 @@ def pdf_to_thumbnails(pdf_file, num_pages=10):
         thumbnails.append(img)
     return thumbnails
 
-
+def pdf_to_text(pdf_file):
+    text = ""
+    pdf = reader(pdf_file)
+    for page in range(len(pdf.pages)):
+    
+        pages=pdf.pages[page]
+        page_text = pages.extract_text()
+        if page_text:
+            text += page_text
+        else:
+            print(f"Text extraction failed for page {page + 1}")
+    return text           
+def text_to_audio(text):
+    output = BytesIO()
+    tts = gTTS(text=text, lang='en')
+    tts.write_to_fp(output)
+    output.seek(0)
+    return output
 def main():
     st.title("PDF Editor")
 
     st.sidebar.title("Choose PDF operation")
 
-    operations = ["Compress PDF", "Combine PDFs", "Remove Page", "Add Page", "Reorder Pages", "Lock PDF", "Unlock PDF","Convert Images to PDF"]
+    operations = ["Pdf to Audio","Compress PDF", "Combine PDFs", "Remove Page", "Add Page", "Reorder Pages", "Lock PDF", "Unlock PDF","Convert Images to PDF"]
     choice = st.sidebar.selectbox("Operation", operations)
 
     if choice == "Compress PDF":
@@ -253,8 +286,24 @@ def main():
             if st.button("Convert to PDF"):
                 pdf_output = images_to_pdf(uploaded_files)
                 st.download_button(label="Download PDF", data=pdf_output, file_name="converted.pdf", mime="application/pdf")
-                st.success("Conversion successful!")            
+                st.success("Conversion successful!")
+
+    elif choice == "Pdf to Audio":
+        st.header("Pdf to Audio")
+        pdf_file = st.file_uploader("Upload PDF", type="pdf")
+        if pdf_file:
+            text=pdf_to_text(pdf_file)
+            audio=text_to_audio(text)
+            st.audio(audio,format="audio/mp3")
+            st.download_button("Download Audio", audio, file_name="audio.mp3",mime="audio/mp3")
+
+    elif choice == "Summarise Pdf":
+            st.header("Summarise Pdf")
+            pdf_file = st.file_uploader("Upload PDF", type="pdf")
+            if pdf_file:
+                text=pdf_to_text(pdf_file)
+                # summary=summarize_text(text)
+                # st.text_area("Summary",summary)
+
         
-
-
 main()
