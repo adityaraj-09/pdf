@@ -81,4 +81,4 @@ if st.button("Simulate Keyword Spotting"):
     else:
         st.warning("Please upload an audio file and enter keywords to train.")
 
-main()
+
