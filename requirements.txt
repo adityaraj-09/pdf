@@ -1,5 +1,3 @@
-PyPDF2
-pdfrw
-PyMuPDF
-pdf2image
-gtts
+librosa
+numpy
+matplotlib.pyplot
