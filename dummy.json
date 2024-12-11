@@ -1,0 +1,4072 @@
+[
+    {
+        "./DATA/TEST_DUMMY_FINAL/0.wav": [
+            {
+                "keyword": "\u0631\u0642\u06cc\u0642",
+                "start_time": 1.6009375,
+                "end_time": 2.6009374999999997
+            },
+            {
+                "keyword": "\u062e\u0648\u0634\u0634\u0648\u0646",
+                "start_time": 5.1909374999999995,
+                "end_time": 6.1909374999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/1.wav": [
+            {
+                "keyword": "\u0787\u07ae\u078a\u07a8\u0790\u07a6\u0783",
+                "start_time": 2.65,
+                "end_time": 3.65
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/2.wav": [
+            {
+                "keyword": "\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u043e\u0439",
+                "start_time": 2.63,
+                "end_time": 3.63
+            },
+            {
+                "keyword": "droit",
+                "start_time": 10.0063125,
+                "end_time": 11.0063125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.734874999999999,
+                "end_time": 14.734874999999999
+            },
+            {
+                "keyword": "droit",
+                "start_time": 17.304875,
+                "end_time": 18.304875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/3.wav": [
+            {
+                "keyword": "\u0643\u0630\u0644\u0643",
+                "start_time": 2.1591875,
+                "end_time": 3.1591875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/4.wav": [
+            {
+                "keyword": "\u914d\u5408",
+                "start_time": 2.2025,
+                "end_time": 3.2025
+            },
+            {
+                "keyword": "\u0645\u0631\u06cc\u0636\u06cc",
+                "start_time": 10.4425,
+                "end_time": 11.4425
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.012562500000001,
+                "end_time": 15.012562500000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 18.414437500000002,
+                "end_time": 19.414437500000002
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/5.wav": [
+            {
+                "keyword": "\u0627\u0644\u062a\u064a",
+                "start_time": 2.3623125,
+                "end_time": 3.3623125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/6.wav": [
+            {
+                "keyword": "gitti",
+                "start_time": 2.52,
+                "end_time": 3.52
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/7.wav": [
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 3.177875,
+                "end_time": 4.177875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.840125,
+                "end_time": 10.840125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/8.wav": [
+            {
+                "keyword": "\u8d77\u56e0",
+                "start_time": 3.157625,
+                "end_time": 4.1576249999999995
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.903687499999999,
+                "end_time": 7.903687499999999
+            },
+            {
+                "keyword": "y\u00fczden",
+                "start_time": 11.0613125,
+                "end_time": 12.0613125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/9.wav": [
+            {
+                "keyword": "az\u0131nl\u0131k",
+                "start_time": 2.55,
+                "end_time": 3.55
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/10.wav": [
+            {
+                "keyword": "klepn\u011bte",
+                "start_time": 1.812375,
+                "end_time": 2.8123750000000003
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.172375000000001,
+                "end_time": 7.172375000000001
+            },
+            {
+                "keyword": "\u7f13\u6162",
+                "start_time": 8.9855625,
+                "end_time": 9.9855625
+            },
+            {
+                "keyword": "\u0628\u0627\u0632\u0631\u0633\u06cc",
+                "start_time": 12.2655625,
+                "end_time": 13.2655625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/11.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.2500625,
+                "end_time": 3.2500625
+            },
+            {
+                "keyword": "de\u011fi\u015fti",
+                "start_time": 5.6829374999999995,
+                "end_time": 6.654937499999999
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 8.784937499999998,
+                "end_time": 9.784937499999998
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/12.wav": [
+            {
+                "keyword": "\u0627\u0644\u0623\u0633\u0626\u0644\u0629",
+                "start_time": 3.54,
+                "end_time": 4.54
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/13.wav": [
+            {
+                "keyword": "ilgiyi",
+                "start_time": 3.1811875,
+                "end_time": 4.1811875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/14.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.41975,
+                "end_time": 3.41975
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 5.809875,
+                "end_time": 6.809875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/15.wav": [
+            {
+                "keyword": "vertes",
+                "start_time": 2.7300625,
+                "end_time": 3.7300625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.3300625,
+                "end_time": 7.3300625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/16.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.6516875,
+                "end_time": 4.6516874999999995
+            },
+            {
+                "keyword": "\u5404\u79cd",
+                "start_time": 7.421687499999999,
+                "end_time": 8.421687499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.427499999999998,
+                "end_time": 11.427499999999998
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/17.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.2,
+                "end_time": 4.2
+            },
+            {
+                "keyword": "\u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442",
+                "start_time": 6.528625,
+                "end_time": 7.528625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/18.wav": [
+            {
+                "keyword": "\u0631\u0642\u0627\u0635\u06cc",
+                "start_time": 2.30125,
+                "end_time": 3.30125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.74125,
+                "end_time": 7.74125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/19.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.3936875,
+                "end_time": 4.3936875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/20.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.154,
+                "end_time": 7.154
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 10.624,
+                "end_time": 11.624
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.50975,
+                "end_time": 15.50975
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/21.wav": [
+            {
+                "keyword": "bossu",
+                "start_time": 3.34,
+                "end_time": 4.34
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/22.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 8.0166875,
+                "end_time": 9.0166875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.2191875,
+                "end_time": 12.2191875
+            },
+            {
+                "keyword": "pek",
+                "start_time": 14.5995,
+                "end_time": 15.5995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/23.wav": [
+            {
+                "keyword": "\u5206\u522b",
+                "start_time": 2.538375,
+                "end_time": 3.538375
+            },
+            {
+                "keyword": "\u0633\u0645\u0639\u062a",
+                "start_time": 5.948375,
+                "end_time": 6.948375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/24.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.0,
+                "end_time": 4.0
+            },
+            {
+                "keyword": "m\u00e1ma",
+                "start_time": 7.3860624999999995,
+                "end_time": 8.3860625
+            },
+            {
+                "keyword": "pek",
+                "start_time": 11.401187499999999,
+                "end_time": 12.401187499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.851187499999998,
+                "end_time": 15.851187499999998
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/25.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.69,
+                "end_time": 3.69
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/26.wav": [
+            {
+                "keyword": "\u5b57\u4f53",
+                "start_time": 2.6474375,
+                "end_time": 3.6474375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.5661875,
+                "end_time": 8.5661875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/27.wav": [
+            {
+                "keyword": "vertes",
+                "start_time": 3.062625,
+                "end_time": 4.062625000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.081125,
+                "end_time": 8.081125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/28.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.32,
+                "end_time": 3.32
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.352187499999999,
+                "end_time": 7.352187499999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/29.wav": [
+            {
+                "keyword": "jonathan",
+                "start_time": 1.8461875,
+                "end_time": 2.8461875
+            },
+            {
+                "keyword": "\u0634\u062f\u0646\u0645",
+                "start_time": 4.914375,
+                "end_time": 5.914375
+            },
+            {
+                "keyword": "\u0643\u062a\u0627\u0628",
+                "start_time": 8.594375,
+                "end_time": 9.594375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/30.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 2.51,
+                "end_time": 3.51
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.7046875,
+                "end_time": 6.7046875
+            },
+            {
+                "keyword": "\u043d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+                "start_time": 11.0546875,
+                "end_time": 12.0546875
+            },
+            {
+                "keyword": "jonathan",
+                "start_time": 13.7305625,
+                "end_time": 14.7305625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/31.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.737375,
+                "end_time": 3.737375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/32.wav": [
+            {
+                "keyword": "\u067e\u0633\u0648\u0631\u062f",
+                "start_time": 2.7485625,
+                "end_time": 3.7485625
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.9285625,
+                "end_time": 7.9285625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.546,
+                "end_time": 11.546
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/33.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 2.5409375,
+                "end_time": 3.5409375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/34.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 2.210125,
+                "end_time": 3.210125
+            },
+            {
+                "keyword": "\u0643\u0644\u0647\u0627",
+                "start_time": 6.390125,
+                "end_time": 7.390125
+            },
+            {
+                "keyword": "\u09b8\u09c7\u0987",
+                "start_time": 9.500187500000001,
+                "end_time": 10.500187500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/35.wav": [
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 2.884375,
+                "end_time": 3.884375
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 7.304375,
+                "end_time": 8.304375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.873625,
+                "end_time": 11.873625
+            },
+            {
+                "keyword": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1",
+                "start_time": 14.723625,
+                "end_time": 15.723625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/36.wav": [
+            {
+                "keyword": "\u00e7oktan",
+                "start_time": 1.9085625,
+                "end_time": 2.9085625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.9285625,
+                "end_time": 7.9285625
+            },
+            {
+                "keyword": "\u5206\u522b",
+                "start_time": 12.7350625,
+                "end_time": 13.7350625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/37.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.5278125,
+                "end_time": 4.5278125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/38.wav": [
+            {
+                "keyword": "pov\u011bzte",
+                "start_time": 1.95,
+                "end_time": 2.95
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/39.wav": [
+            {
+                "keyword": "\u0440\u0435\u0448\u0435\u043d\u044b",
+                "start_time": 3.596375,
+                "end_time": 4.596375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/40.wav": [
+            {
+                "keyword": "\u062f\u0648\u0633\u062a\u062a\u0645",
+                "start_time": 2.6273125,
+                "end_time": 3.6273125
+            },
+            {
+                "keyword": "gelece\u011fi",
+                "start_time": 6.9873125,
+                "end_time": 7.9873125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.107312499999999,
+                "end_time": 12.107312499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.867375,
+                "end_time": 15.867375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/41.wav": [
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 1.838,
+                "end_time": 2.838
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.6439375,
+                "end_time": 6.6439375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/42.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 1.81,
+                "end_time": 2.81
+            },
+            {
+                "keyword": "\u00e9gale",
+                "start_time": 5.5624375,
+                "end_time": 6.5624375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/43.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.13,
+                "end_time": 6.13
+            },
+            {
+                "keyword": "\u0b9a\u0bc2\u0ba4\u0bb1\u0bcd\u0bb1",
+                "start_time": 8.995375,
+                "end_time": 9.995375
+            },
+            {
+                "keyword": "\u0440\u0430\u0437\u0434\u0430\u043b\u0441\u044f",
+                "start_time": 12.706999999999999,
+                "end_time": 13.706999999999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/44.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.043625,
+                "end_time": 5.043625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/45.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.611375,
+                "end_time": 3.611375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.611375,
+                "end_time": 7.611375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/46.wav": [
+            {
+                "keyword": "\u0633\u0645\u0639\u062a",
+                "start_time": 1.6625,
+                "end_time": 2.6625
+            },
+            {
+                "keyword": "\u0432\u0437\u0433\u043b\u044f\u0434\u043e\u043c",
+                "start_time": 4.7531875,
+                "end_time": 5.7531875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/47.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.495,
+                "end_time": 4.495
+            },
+            {
+                "keyword": "apporter",
+                "start_time": 6.405,
+                "end_time": 7.405
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/48.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.4575625,
+                "end_time": 3.4575625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.300437499999999,
+                "end_time": 7.300437499999999
+            },
+            {
+                "keyword": "tespit",
+                "start_time": 9.764312499999999,
+                "end_time": 10.764312499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.373999999999999,
+                "end_time": 16.374
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/49.wav": [
+            {
+                "keyword": "\u0633\u064a\u0627\u0631\u0629",
+                "start_time": 3.037,
+                "end_time": 4.037
+            },
+            {
+                "keyword": "droit",
+                "start_time": 8.924,
+                "end_time": 9.924
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.64075,
+                "end_time": 13.64075
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/50.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.1471875,
+                "end_time": 3.1471875
+            },
+            {
+                "keyword": "\u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0449\u0435\u0439\u0441\u044f",
+                "start_time": 5.5471875,
+                "end_time": 6.5471875
+            },
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 8.5006875,
+                "end_time": 9.5006875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/51.wav": [
+            {
+                "keyword": "\u0432\u0435\u0441\u0442\u0438\u0441\u044c",
+                "start_time": 5.283625,
+                "end_time": 6.283625
+            },
+            {
+                "keyword": "nutn\u011b",
+                "start_time": 8.48525,
+                "end_time": 9.48525
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/52.wav": [
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 3.2400625,
+                "end_time": 4.2400625000000005
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.6368125000000004,
+                "end_time": 7.6368125000000004
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.0868125,
+                "end_time": 12.0588125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/53.wav": [
+            {
+                "keyword": "\u0644\u0625\u0635\u0644\u0627\u062d",
+                "start_time": 2.43,
+                "end_time": 3.43
+            },
+            {
+                "keyword": "\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438",
+                "start_time": 6.0806875,
+                "end_time": 7.0806875
+            },
+            {
+                "keyword": "jonathan",
+                "start_time": 9.370687499999999,
+                "end_time": 10.370687499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.937249999999999,
+                "end_time": 14.937249999999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/54.wav": [
+            {
+                "keyword": "\u0baa\u0bcb\u0b95",
+                "start_time": 3.06,
+                "end_time": 4.0600000000000005
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.877187500000001,
+                "end_time": 7.877187500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/55.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.0991875,
+                "end_time": 3.0671875
+            },
+            {
+                "keyword": "vertes",
+                "start_time": 7.9871875,
+                "end_time": 8.987187500000001
+            },
+            {
+                "keyword": "droit",
+                "start_time": 12.453437500000001,
+                "end_time": 13.453437500000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.884125000000001,
+                "end_time": 16.884125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/56.wav": [
+            {
+                "keyword": "tomu",
+                "start_time": 3.58,
+                "end_time": 4.58
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/57.wav": [
+            {
+                "keyword": "icat",
+                "start_time": 2.1789375,
+                "end_time": 3.1789375
+            },
+            {
+                "keyword": "m\u00e9ho",
+                "start_time": 5.243125,
+                "end_time": 6.243125
+            },
+            {
+                "keyword": "miller",
+                "start_time": 9.1131875,
+                "end_time": 10.1131875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/58.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.55,
+                "end_time": 3.55
+            },
+            {
+                "keyword": "tardifs",
+                "start_time": 5.995125,
+                "end_time": 6.995125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/59.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.913875,
+                "end_time": 2.913875
+            },
+            {
+                "keyword": "\u09a8\u09be\u09ae",
+                "start_time": 5.673875,
+                "end_time": 6.673875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/60.wav": [
+            {
+                "keyword": "\u0634\u0644\u06cc\u06a9",
+                "start_time": 3.578625,
+                "end_time": 4.578625000000001
+            },
+            {
+                "keyword": "kapasiteye",
+                "start_time": 7.9186250000000005,
+                "end_time": 8.918625
+            },
+            {
+                "keyword": "\u8d22\u7ecf",
+                "start_time": 11.024437500000001,
+                "end_time": 12.024437500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/61.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.0018125,
+                "end_time": 3.9738125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/62.wav": [
+            {
+                "keyword": "\u0623\u0639\u0637\u062a\u0646\u064a",
+                "start_time": 2.7,
+                "end_time": 3.7
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.380375000000001,
+                "end_time": 7.380375000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/63.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.8535625,
+                "end_time": 3.8535625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.6835625,
+                "end_time": 6.6835625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/64.wav": [
+            {
+                "keyword": "n\u00e9gligeables",
+                "start_time": 2.0655625,
+                "end_time": 3.0655625
+            },
+            {
+                "keyword": "pek",
+                "start_time": 4.397125,
+                "end_time": 5.397125
+            },
+            {
+                "keyword": "\u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435",
+                "start_time": 7.6555625,
+                "end_time": 8.6555625
+            },
+            {
+                "keyword": "\u0623\u0630\u0647\u0628",
+                "start_time": 13.595812500000001,
+                "end_time": 14.595812500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/65.wav": [
+            {
+                "keyword": "\u062e\u0648\u0634\u0634\u0648\u0646",
+                "start_time": 2.8278125,
+                "end_time": 3.8278125
+            },
+            {
+                "keyword": "pek",
+                "start_time": 5.9978125,
+                "end_time": 6.9978125
+            },
+            {
+                "keyword": "droit",
+                "start_time": 9.7534375,
+                "end_time": 10.7534375
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 13.8856875,
+                "end_time": 14.8856875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/66.wav": [
+            {
+                "keyword": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1",
+                "start_time": 3.19,
+                "end_time": 4.1899999999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/67.wav": [
+            {
+                "keyword": "traducteur",
+                "start_time": 3.1959375,
+                "end_time": 4.195937499999999
+            },
+            {
+                "keyword": "vertes",
+                "start_time": 6.7603124999999995,
+                "end_time": 7.7603124999999995
+            },
+            {
+                "keyword": "\u0628\u0627\u0632\u0631\u0633\u06cc",
+                "start_time": 10.418624999999999,
+                "end_time": 11.418624999999999
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 14.528624999999998,
+                "end_time": 15.528624999999998
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/68.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.5335625,
+                "end_time": 2.5335625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.607875,
+                "end_time": 8.607875
+            },
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 10.9958125,
+                "end_time": 11.9958125
+            },
+            {
+                "keyword": "\u0642\u0628\u0644",
+                "start_time": 14.2558125,
+                "end_time": 15.2558125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/69.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.3510625,
+                "end_time": 3.3250624999999996
+            },
+            {
+                "keyword": "droit",
+                "start_time": 5.430249999999999,
+                "end_time": 6.430249999999999
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 9.2041875,
+                "end_time": 10.2041875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/70.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.3163125,
+                "end_time": 3.3163125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.2865,
+                "end_time": 7.2865
+            },
+            {
+                "keyword": "apporter",
+                "start_time": 9.6221875,
+                "end_time": 10.6221875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/71.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 1.6731875,
+                "end_time": 2.6731875
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 4.9049375,
+                "end_time": 5.9049375
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 7.6573125,
+                "end_time": 8.6573125
+            },
+            {
+                "keyword": "tedy",
+                "start_time": 12.5421875,
+                "end_time": 13.5421875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/72.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.52,
+                "end_time": 5.52
+            },
+            {
+                "keyword": "\u0628\u0627\u0632\u0631\u0633\u06cc",
+                "start_time": 8.5889375,
+                "end_time": 9.5889375
+            },
+            {
+                "keyword": "\u0628\u0646\u0638\u0631",
+                "start_time": 11.9481875,
+                "end_time": 12.9481875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/73.wav": [
+            {
+                "keyword": "plan\u0131",
+                "start_time": 4.2671875,
+                "end_time": 5.2671875
+            },
+            {
+                "keyword": "odevzd\u00e1n\u00ed",
+                "start_time": 8.0471875,
+                "end_time": 9.0471875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.2976875,
+                "end_time": 12.2976875
+            },
+            {
+                "keyword": "droit",
+                "start_time": 15.5254375,
+                "end_time": 16.525437500000002
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/74.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 2.9183125,
+                "end_time": 3.9183125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/75.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.305875,
+                "end_time": 3.305875
+            },
+            {
+                "keyword": "\u914d\u5408",
+                "start_time": 5.2261875,
+                "end_time": 6.2261875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/76.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 2.3755625,
+                "end_time": 3.3755625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/77.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.77,
+                "end_time": 5.77
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.427249999999999,
+                "end_time": 9.427249999999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.2563125,
+                "end_time": 13.2563125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/78.wav": [
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 2.482,
+                "end_time": 3.482
+            },
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 6.502000000000001,
+                "end_time": 7.502000000000001
+            },
+            {
+                "keyword": "\u043a\u043e\u0440\u0435\u044e",
+                "start_time": 11.502,
+                "end_time": 12.502
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.032562500000001,
+                "end_time": 16.0325625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/79.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 1.960125,
+                "end_time": 2.9601249999999997
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.8595,
+                "end_time": 5.8595
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/80.wav": [
+            {
+                "keyword": "pek",
+                "start_time": 3.39,
+                "end_time": 4.390000000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.764000000000001,
+                "end_time": 7.764000000000001
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 9.815562500000002,
+                "end_time": 10.815562500000002
+            },
+            {
+                "keyword": "op\u00e9rations",
+                "start_time": 14.449000000000002,
+                "end_time": 15.449000000000002
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/81.wav": [
+            {
+                "keyword": "eriyor",
+                "start_time": 4.39,
+                "end_time": 5.39
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.869999999999999,
+                "end_time": 8.84
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.23,
+                "end_time": 14.23
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/82.wav": [
+            {
+                "keyword": "\u062e\u0627\u0634\u0642\u0686\u06cc",
+                "start_time": 2.0900625,
+                "end_time": 3.0900625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.5501249999999995,
+                "end_time": 6.5501249999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/83.wav": [
+            {
+                "keyword": "\u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+                "start_time": 3.92,
+                "end_time": 4.92
+            },
+            {
+                "keyword": "pov\u011bzte",
+                "start_time": 7.520375,
+                "end_time": 8.520375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/84.wav": [
+            {
+                "keyword": "az\u0131nl\u0131k",
+                "start_time": 3.029375,
+                "end_time": 4.029375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 8.059125,
+                "end_time": 9.059125
+            },
+            {
+                "keyword": "\u0787\u07ae\u078a\u07a8\u0790\u07a6\u0783",
+                "start_time": 11.9165,
+                "end_time": 12.9165
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/85.wav": [
+            {
+                "keyword": "\u0437\u0430\u0441\u043a\u0430\u043a\u0438\u0432\u0430\u043b",
+                "start_time": 2.793625,
+                "end_time": 3.793625
+            },
+            {
+                "keyword": "apporter",
+                "start_time": 5.4710625,
+                "end_time": 6.4710625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/86.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.2850625,
+                "end_time": 4.2850625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/87.wav": [
+            {
+                "keyword": "\u09b8\u09ae\u09df",
+                "start_time": 3.77,
+                "end_time": 4.77
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.619999999999999,
+                "end_time": 8.62
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/88.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.62,
+                "end_time": 4.62
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/89.wav": [
+            {
+                "keyword": "\u06af\u0631\u0648\u0647\u06cc",
+                "start_time": 3.005125,
+                "end_time": 4.005125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/90.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.268375,
+                "end_time": 3.268375
+            },
+            {
+                "keyword": "\u0627\u0644\u062a\u064a",
+                "start_time": 5.548125,
+                "end_time": 6.548125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/91.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.699875,
+                "end_time": 3.699875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.799875,
+                "end_time": 7.799875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.2203125,
+                "end_time": 11.2203125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/92.wav": [
+            {
+                "keyword": "pek",
+                "start_time": 3.64,
+                "end_time": 4.640000000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/93.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 2.48,
+                "end_time": 3.48
+            },
+            {
+                "keyword": "\u0631\u0648\u06cc\u0627\u0647\u0627\u06cc\u0645\u0627\u0646",
+                "start_time": 5.1051874999999995,
+                "end_time": 6.1051874999999995
+            },
+            {
+                "keyword": "\u0642\u0628\u0644",
+                "start_time": 9.145187499999999,
+                "end_time": 10.145187499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.517562499999999,
+                "end_time": 14.517562499999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/94.wav": [
+            {
+                "keyword": "\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438",
+                "start_time": 2.03675,
+                "end_time": 3.03675
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 4.9689375,
+                "end_time": 5.9689375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/95.wav": [
+            {
+                "keyword": "\u0baa\u0bcb\u0bb2",
+                "start_time": 4.242,
+                "end_time": 5.242
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/96.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.231875,
+                "end_time": 6.231875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.7277499999999995,
+                "end_time": 8.72775
+            },
+            {
+                "keyword": "opatrn\u011b",
+                "start_time": 13.26775,
+                "end_time": 14.26775
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 17.182375,
+                "end_time": 18.182375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/97.wav": [
+            {
+                "keyword": "\u0641\u0647\u0645\u06cc\u062f\u0646",
+                "start_time": 2.84,
+                "end_time": 3.84
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.0646249999999995,
+                "end_time": 7.0646249999999995
+            },
+            {
+                "keyword": "\u0b8e\u0ba3\u0bcd\u0ba3",
+                "start_time": 9.3508125,
+                "end_time": 10.3508125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.287749999999999,
+                "end_time": 13.287749999999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/98.wav": [
+            {
+                "keyword": "\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4",
+                "start_time": 4.4171875,
+                "end_time": 5.4171875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/99.wav": [
+            {
+                "keyword": "\u0bb5\u0bbe\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4",
+                "start_time": 3.615375,
+                "end_time": 4.615375
+            },
+            {
+                "keyword": "\u0bb0\u0bca\u0bae\u0bcd\u0baa",
+                "start_time": 7.585375000000001,
+                "end_time": 8.585375
+            },
+            {
+                "keyword": "\u0627\u0644\u0643\u0644",
+                "start_time": 12.465375000000002,
+                "end_time": 13.465375000000002
+            },
+            {
+                "keyword": "poutres",
+                "start_time": 17.205375000000004,
+                "end_time": 18.205375000000004
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/100.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.36,
+                "end_time": 3.36
+            },
+            {
+                "keyword": "\u0790\u07a9\u0782\u07a8\u0787\u07a6\u0783",
+                "start_time": 5.2239375,
+                "end_time": 6.2239375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/101.wav": [
+            {
+                "keyword": "\u5404\u79cd",
+                "start_time": 2.136625,
+                "end_time": 3.136625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/102.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.96,
+                "end_time": 3.96
+            },
+            {
+                "keyword": "odehr\u00e1v\u00e1",
+                "start_time": 5.988875,
+                "end_time": 6.988875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/103.wav": [
+            {
+                "keyword": "\u06af\u0631\u0648\u0647\u06cc",
+                "start_time": 2.1655,
+                "end_time": 3.1655
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.5555,
+                "end_time": 6.5555
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/104.wav": [
+            {
+                "keyword": "\u0ba4\u0bbf\u0ba9",
+                "start_time": 2.2818125,
+                "end_time": 3.2818125
+            },
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 7.0756250000000005,
+                "end_time": 8.075625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.5070625,
+                "end_time": 11.5070625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/105.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.019625,
+                "end_time": 3.019625
+            },
+            {
+                "keyword": "\u5206\u522b",
+                "start_time": 4.98275,
+                "end_time": 5.98275
+            },
+            {
+                "keyword": "pek",
+                "start_time": 9.375625,
+                "end_time": 10.375625
+            },
+            {
+                "keyword": "\u0445\u043e\u0437\u044f\u0438\u043d",
+                "start_time": 13.6939375,
+                "end_time": 14.6939375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/106.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 1.7950625,
+                "end_time": 2.7950625000000002
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/107.wav": [
+            {
+                "keyword": "\u0b8e\u0ba9\u0bcd\u0bb1",
+                "start_time": 2.52,
+                "end_time": 3.52
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/108.wav": [
+            {
+                "keyword": "kamuoyu",
+                "start_time": 5.8535625,
+                "end_time": 6.8535625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/109.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.7941875,
+                "end_time": 2.7941875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/110.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.0,
+                "end_time": 4.0
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/111.wav": [
+            {
+                "keyword": "tomu",
+                "start_time": 4.2075625,
+                "end_time": 5.2075625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/112.wav": [
+            {
+                "keyword": "\u06af\u0631\u0648\u0647\u06cc",
+                "start_time": 1.95775,
+                "end_time": 2.95775
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/113.wav": [
+            {
+                "keyword": "\u043f\u0440\u0438\u043c\u0438\u0440\u0438\u0442\u044c",
+                "start_time": 2.07,
+                "end_time": 3.07
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/114.wav": [
+            {
+                "keyword": "\u043f\u043e\u043f\u0430\u0441\u0442\u044c",
+                "start_time": 1.8475,
+                "end_time": 2.8475
+            },
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 5.8445,
+                "end_time": 6.8445
+            },
+            {
+                "keyword": "\u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435",
+                "start_time": 9.9145,
+                "end_time": 10.9145
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.34975,
+                "end_time": 15.34975
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/115.wav": [
+            {
+                "keyword": "\u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+                "start_time": 3.23,
+                "end_time": 4.23
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/116.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.391,
+                "end_time": 3.391
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 6.162375,
+                "end_time": 7.162375
+            },
+            {
+                "keyword": "\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438",
+                "start_time": 8.8333125,
+                "end_time": 9.8333125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/117.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.37525,
+                "end_time": 5.37525
+            },
+            {
+                "keyword": "merkezi",
+                "start_time": 15.261624999999999,
+                "end_time": 16.261625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/118.wav": [
+            {
+                "keyword": "\u6a21\u578b",
+                "start_time": 4.667375,
+                "end_time": 5.667375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/119.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.39,
+                "end_time": 4.390000000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.3100000000000005,
+                "end_time": 8.31
+            },
+            {
+                "keyword": "\u062d\u0642\u0648\u0642\u062a",
+                "start_time": 11.23825,
+                "end_time": 12.23825
+            },
+            {
+                "keyword": "prot\u00e9ines",
+                "start_time": 15.978250000000001,
+                "end_time": 16.978250000000003
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/120.wav": [
+            {
+                "keyword": "\u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435",
+                "start_time": 2.883125,
+                "end_time": 3.883125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.7224375,
+                "end_time": 7.7224375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/121.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.6846875,
+                "end_time": 4.6846875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/122.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.1448125,
+                "end_time": 4.1448125000000005
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.7348125,
+                "end_time": 13.7348125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 18.3548125,
+                "end_time": 19.3548125
+            },
+            {
+                "keyword": "\u0998\u09f0\u09f0",
+                "start_time": 21.6350625,
+                "end_time": 22.6350625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/123.wav": [
+            {
+                "keyword": "\u00e9gale",
+                "start_time": 2.7731875,
+                "end_time": 3.7731875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/124.wav": [
+            {
+                "keyword": "etme",
+                "start_time": 1.8715625,
+                "end_time": 2.8715625
+            },
+            {
+                "keyword": "droit",
+                "start_time": 5.5615625,
+                "end_time": 6.5615625
+            },
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 9.75,
+                "end_time": 10.75
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/125.wav": [
+            {
+                "keyword": "\u0639\u06cc\u062f\u0647",
+                "start_time": 3.3691875,
+                "end_time": 4.3691875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/126.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 2.64,
+                "end_time": 3.64
+            },
+            {
+                "keyword": "\u73af\u72b6",
+                "start_time": 5.6608125000000005,
+                "end_time": 6.6608125000000005
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/127.wav": [
+            {
+                "keyword": "\u0627\u0644\u0634\u064a\u0637\u0627\u0646",
+                "start_time": 2.5299375,
+                "end_time": 3.5299375
+            },
+            {
+                "keyword": "\u8033\u8568",
+                "start_time": 5.6204374999999995,
+                "end_time": 6.6204374999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/128.wav": [
+            {
+                "keyword": "peupl\u00e9es",
+                "start_time": 3.25,
+                "end_time": 4.25
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 7.3258125,
+                "end_time": 8.3258125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.6358125,
+                "end_time": 12.6358125
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 17.631375,
+                "end_time": 18.631375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/129.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.523625,
+                "end_time": 3.523625
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 5.4235625,
+                "end_time": 6.4235625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/130.wav": [
+            {
+                "keyword": "normands",
+                "start_time": 2.1975625,
+                "end_time": 3.1975625
+            },
+            {
+                "keyword": "plan\u0131",
+                "start_time": 5.3576250000000005,
+                "end_time": 6.3576250000000005
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 8.9469375,
+                "end_time": 9.9469375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.1573125,
+                "end_time": 13.1573125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/131.wav": [
+            {
+                "keyword": "op\u00e9rations",
+                "start_time": 2.467,
+                "end_time": 3.467
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.127000000000001,
+                "end_time": 7.127000000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/132.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.4064375,
+                "end_time": 3.4064375
+            },
+            {
+                "keyword": "\u06cc\u0627\u062f\u0634",
+                "start_time": 7.1541250000000005,
+                "end_time": 8.154125
+            },
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 11.764125,
+                "end_time": 12.764125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/133.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.67,
+                "end_time": 3.67
+            },
+            {
+                "keyword": "joachim",
+                "start_time": 7.989125,
+                "end_time": 8.989125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 11.939125,
+                "end_time": 12.939125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/134.wav": [
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 2.94,
+                "end_time": 3.94
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 7.8,
+                "end_time": 8.8
+            },
+            {
+                "keyword": "vstala",
+                "start_time": 12.030000000000001,
+                "end_time": 13.030000000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/135.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.12075,
+                "end_time": 3.11275
+            },
+            {
+                "keyword": "droit",
+                "start_time": 5.241625,
+                "end_time": 6.241625
+            },
+            {
+                "keyword": "tedy",
+                "start_time": 8.650375,
+                "end_time": 9.650375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/136.wav": [
+            {
+                "keyword": "\u06a9\u0631\u0627\u0633",
+                "start_time": 3.002875,
+                "end_time": 4.0028749999999995
+            },
+            {
+                "keyword": "s\u0131n\u0131f",
+                "start_time": 5.4460625,
+                "end_time": 6.4460625
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 9.6811875,
+                "end_time": 10.6811875
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 13.2895,
+                "end_time": 14.2895
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/137.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.6253125,
+                "end_time": 3.6253125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/138.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.4466875,
+                "end_time": 3.4466875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.6281875,
+                "end_time": 6.6281875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/139.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 3.9281875,
+                "end_time": 4.9281875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/140.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.33425,
+                "end_time": 4.33425
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 7.94425,
+                "end_time": 8.94425
+            },
+            {
+                "keyword": "droit",
+                "start_time": 11.76325,
+                "end_time": 12.76325
+            },
+            {
+                "keyword": "\u06af\u0644\u0648\u062f\u0631\u062f",
+                "start_time": 15.116249999999999,
+                "end_time": 16.11625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/141.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.56375,
+                "end_time": 4.563750000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.164000000000001,
+                "end_time": 8.164000000000001
+            },
+            {
+                "keyword": "rv\u00e1\u010d\u016f",
+                "start_time": 12.4119375,
+                "end_time": 13.4119375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.711937500000001,
+                "end_time": 16.7119375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/142.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.4285625,
+                "end_time": 3.4285625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.8960625,
+                "end_time": 5.8960625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.4160625,
+                "end_time": 9.4160625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/143.wav": [
+            {
+                "keyword": "eriyor",
+                "start_time": 2.64825,
+                "end_time": 3.64825
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.4104375000000005,
+                "end_time": 7.4104375000000005
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/144.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.28325,
+                "end_time": 3.28325
+            },
+            {
+                "keyword": "cht\u011bl",
+                "start_time": 7.5116249999999996,
+                "end_time": 8.511624999999999
+            },
+            {
+                "keyword": "\u0641\u0627\u062f\u062d\u0629",
+                "start_time": 11.922124999999998,
+                "end_time": 12.922124999999998
+            },
+            {
+                "keyword": "\u0634\u0648\u0647\u0631\u062a\u0647",
+                "start_time": 15.912124999999998,
+                "end_time": 16.912124999999996
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/145.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.75,
+                "end_time": 3.75
+            },
+            {
+                "keyword": "\u5206\u5f00",
+                "start_time": 6.1587499999999995,
+                "end_time": 7.1587499999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/146.wav": [
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 2.94,
+                "end_time": 3.94
+            },
+            {
+                "keyword": "\u0440\u0430\u0437\u0434\u0430\u043b\u0441\u044f",
+                "start_time": 7.140000000000001,
+                "end_time": 8.14
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/147.wav": [
+            {
+                "keyword": "\u0623\u0630\u0647\u0628",
+                "start_time": 1.955125,
+                "end_time": 2.955125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/148.wav": [
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 3.86525,
+                "end_time": 4.86525
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.715249999999999,
+                "end_time": 8.71525
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 11.63525,
+                "end_time": 12.63525
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/149.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.29,
+                "end_time": 3.29
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.839375,
+                "end_time": 6.839375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.895,
+                "end_time": 9.895
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/150.wav": [
+            {
+                "keyword": "\u017eidli",
+                "start_time": 1.8401875,
+                "end_time": 2.8401875
+            },
+            {
+                "keyword": "eriyor",
+                "start_time": 5.660375,
+                "end_time": 6.660375
+            },
+            {
+                "keyword": "tedy",
+                "start_time": 8.77125,
+                "end_time": 9.77125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/151.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.73,
+                "end_time": 3.73
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.983124999999999,
+                "end_time": 6.983124999999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/152.wav": [
+            {
+                "keyword": "\u0628\u0646\u0638\u0631",
+                "start_time": 2.59,
+                "end_time": 3.59
+            },
+            {
+                "keyword": "\u0643\u0630\u0644\u0643",
+                "start_time": 6.585,
+                "end_time": 7.585
+            },
+            {
+                "keyword": "privas",
+                "start_time": 9.8071875,
+                "end_time": 10.8071875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.5114375,
+                "end_time": 13.5114375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/153.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 2.2695,
+                "end_time": 3.2695
+            },
+            {
+                "keyword": "\u0646\u0645\u06cc\u062e\u0627\u06cc",
+                "start_time": 6.0810625,
+                "end_time": 7.0810625
+            },
+            {
+                "keyword": "\u0623\u0639\u0637\u062a\u0646\u064a",
+                "start_time": 10.2635,
+                "end_time": 11.2635
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/154.wav": [
+            {
+                "keyword": "klub",
+                "start_time": 3.24525,
+                "end_time": 4.24525
+            },
+            {
+                "keyword": "\u0643\u062a\u0627\u0628\u0643",
+                "start_time": 8.37425,
+                "end_time": 9.37425
+            },
+            {
+                "keyword": "\u0634\u062f\u0646\u0645",
+                "start_time": 11.838687499999999,
+                "end_time": 12.838687499999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/155.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.99,
+                "end_time": 3.99
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.720000000000001,
+                "end_time": 8.72
+            },
+            {
+                "keyword": "eriyor",
+                "start_time": 10.891937500000001,
+                "end_time": 11.891937500000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.8115625,
+                "end_time": 16.8115625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/156.wav": [
+            {
+                "keyword": "gitti",
+                "start_time": 3.5,
+                "end_time": 4.5
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 9.8188125,
+                "end_time": 10.8188125
+            },
+            {
+                "keyword": "pou\u0161ti",
+                "start_time": 13.1388125,
+                "end_time": 14.1388125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/157.wav": [
+            {
+                "keyword": "\u06cc\u06a9\u0628\u0627\u0631",
+                "start_time": 2.459125,
+                "end_time": 3.459125
+            },
+            {
+                "keyword": "\u0627\u0644\u0643\u0644",
+                "start_time": 6.3291875,
+                "end_time": 7.3291875
+            },
+            {
+                "keyword": "\u044e\u0436\u043d\u0430\u044f",
+                "start_time": 9.5548125,
+                "end_time": 10.5548125
+            },
+            {
+                "keyword": "droit",
+                "start_time": 14.5748125,
+                "end_time": 15.5748125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/158.wav": [
+            {
+                "keyword": "\u06a9\u0631\u0627\u0633",
+                "start_time": 2.861125,
+                "end_time": 3.861125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.451124999999999,
+                "end_time": 8.451125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/159.wav": [
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 2.16225,
+                "end_time": 3.16225
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.0480625,
+                "end_time": 7.0480625
+            },
+            {
+                "keyword": "\u0642\u0628\u0644",
+                "start_time": 9.9164375,
+                "end_time": 10.9164375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/160.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.64,
+                "end_time": 4.640000000000001
+            },
+            {
+                "keyword": "pek",
+                "start_time": 6.890000000000001,
+                "end_time": 7.890000000000001
+            },
+            {
+                "keyword": "\u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e\u0435\u0440",
+                "start_time": 12.0428125,
+                "end_time": 13.0428125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/161.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.0158125,
+                "end_time": 3.0158125
+            },
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 8.4538125,
+                "end_time": 9.4538125
+            },
+            {
+                "keyword": "\u06cc\u06a9\u0628\u0627\u0631",
+                "start_time": 12.1138125,
+                "end_time": 13.1138125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/162.wav": [
+            {
+                "keyword": "terminez",
+                "start_time": 2.61,
+                "end_time": 3.61
+            },
+            {
+                "keyword": "birlik",
+                "start_time": 5.3500625,
+                "end_time": 6.3500625
+            },
+            {
+                "keyword": "\u06cc\u0627\u062f\u0634",
+                "start_time": 8.6056875,
+                "end_time": 9.6056875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/163.wav": [
+            {
+                "keyword": "\u914d\u5408",
+                "start_time": 2.4224375,
+                "end_time": 3.4224375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/164.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.4455625,
+                "end_time": 15.4455625
+            },
+            {
+                "keyword": "\u8be5\u5730",
+                "start_time": 17.241812499999998,
+                "end_time": 18.241812499999998
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/165.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.575375,
+                "end_time": 3.575375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/166.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.8,
+                "end_time": 3.8
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.016375,
+                "end_time": 8.016375
+            },
+            {
+                "keyword": "\u5176\u5b9e",
+                "start_time": 10.459624999999999,
+                "end_time": 11.459624999999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/167.wav": [
+            {
+                "keyword": "opatrn\u011b",
+                "start_time": 2.3648125,
+                "end_time": 3.3648125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.1748125,
+                "end_time": 7.1748125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.1716875,
+                "end_time": 11.1716875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/168.wav": [
+            {
+                "keyword": "\u043d\u0435\u0443\u0434\u0430\u0447\u043d\u043e\u0439",
+                "start_time": 1.91525,
+                "end_time": 2.91525
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/169.wav": [
+            {
+                "keyword": "cht\u011bl",
+                "start_time": 10.153,
+                "end_time": 11.153
+            },
+            {
+                "keyword": "tucson",
+                "start_time": 13.341437500000001,
+                "end_time": 14.341437500000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 18.5964375,
+                "end_time": 19.5964375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 22.6664375,
+                "end_time": 23.6664375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/170.wav": [
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 2.48,
+                "end_time": 3.48
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/171.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 2.8205625,
+                "end_time": 3.8205625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/172.wav": [
+            {
+                "keyword": "\u0440\u0430\u0437\u0434\u0430\u043b\u0441\u044f",
+                "start_time": 2.74725,
+                "end_time": 3.74725
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.729312500000001,
+                "end_time": 6.729312500000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.5093125,
+                "end_time": 10.5093125
+            },
+            {
+                "keyword": "\u0633\u064a\u0627\u0631\u0629",
+                "start_time": 13.5486875,
+                "end_time": 14.5486875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/173.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.26,
+                "end_time": 3.26
+            },
+            {
+                "keyword": "\u00e7oktan",
+                "start_time": 5.67,
+                "end_time": 6.67
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/174.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.97,
+                "end_time": 2.9699999999999998
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.9185625,
+                "end_time": 6.9185625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.4185625,
+                "end_time": 11.4185625
+            },
+            {
+                "keyword": "\u0441\u0435\u043d\u0441\u0430\u0446\u0438\u0435\u0439",
+                "start_time": 14.765875000000001,
+                "end_time": 15.765875000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/175.wav": [
+            {
+                "keyword": "\u079e\u07a6\u0787\u07b0\u078d\u07a6\ufdf2",
+                "start_time": 1.70475,
+                "end_time": 2.7047499999999998
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.329375,
+                "end_time": 6.329375
+            },
+            {
+                "keyword": "hanotin",
+                "start_time": 8.0751875,
+                "end_time": 9.0751875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/176.wav": [
+            {
+                "keyword": "\u5170\u5fb7",
+                "start_time": 3.727875,
+                "end_time": 4.727875
+            },
+            {
+                "keyword": "cosmos",
+                "start_time": 6.69625,
+                "end_time": 7.69625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.259375,
+                "end_time": 11.259375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.319375,
+                "end_time": 14.319375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/177.wav": [
+            {
+                "keyword": "poutres",
+                "start_time": 1.524875,
+                "end_time": 2.5248749999999998
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 5.736812499999999,
+                "end_time": 6.736812499999999
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/178.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.9105625,
+                "end_time": 3.9105625
+            },
+            {
+                "keyword": "\u6392\u540d",
+                "start_time": 6.5295000000000005,
+                "end_time": 7.5295000000000005
+            },
+            {
+                "keyword": "apporter",
+                "start_time": 11.468375,
+                "end_time": 12.468375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/179.wav": [
+            {
+                "keyword": "\u0642\u0628\u0644",
+                "start_time": 3.9705,
+                "end_time": 4.9704999999999995
+            },
+            {
+                "keyword": "\u062f\u0627\u0633\u062a\u0627\u0646\u06cc\u0647",
+                "start_time": 9.2244375,
+                "end_time": 10.2244375
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 13.039312500000001,
+                "end_time": 14.039312500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/180.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.4238125,
+                "end_time": 4.4238125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/181.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.7900625,
+                "end_time": 2.7900625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/182.wav": [
+            {
+                "keyword": "\u0627\u0642\u0644",
+                "start_time": 2.5796875,
+                "end_time": 3.5796875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/183.wav": [
+            {
+                "keyword": "\u0623\u0630\u0647\u0628",
+                "start_time": 2.603875,
+                "end_time": 3.603875
+            },
+            {
+                "keyword": "op\u00e9rations",
+                "start_time": 7.9293125,
+                "end_time": 8.9293125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/184.wav": [
+            {
+                "keyword": "\u5b89\u571f\u6843\u5c71\u65f6\u4ee3",
+                "start_time": 2.58,
+                "end_time": 3.58
+            },
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 6.71,
+                "end_time": 7.71
+            },
+            {
+                "keyword": "\u09a4\u09c7\u0993\u0981\u09f0",
+                "start_time": 10.379999999999999,
+                "end_time": 11.379999999999999
+            },
+            {
+                "keyword": "\u0631\u0628\u0645\u0627",
+                "start_time": 15.085999999999999,
+                "end_time": 16.086
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/185.wav": [
+            {
+                "keyword": "\u062c\u064a\u062f",
+                "start_time": 2.35,
+                "end_time": 3.35
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.836,
+                "end_time": 7.836
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/186.wav": [
+            {
+                "keyword": "eriyor",
+                "start_time": 2.4000625,
+                "end_time": 3.4000625
+            },
+            {
+                "keyword": "\u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439",
+                "start_time": 6.2073125000000005,
+                "end_time": 7.2073125000000005
+            },
+            {
+                "keyword": "\u5404\u79cd",
+                "start_time": 9.4216875,
+                "end_time": 10.4216875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/187.wav": [
+            {
+                "keyword": "\u0646\u0647\u0627\u0646\u062a\u0631",
+                "start_time": 3.47,
+                "end_time": 4.470000000000001
+            },
+            {
+                "keyword": "vance",
+                "start_time": 6.940000000000001,
+                "end_time": 7.940000000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/188.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.1200625,
+                "end_time": 4.1200624999999995
+            },
+            {
+                "keyword": "droit",
+                "start_time": 7.080124999999999,
+                "end_time": 8.080124999999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.470125,
+                "end_time": 11.470125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 14.520125,
+                "end_time": 15.520125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/189.wav": [
+            {
+                "keyword": "verilen",
+                "start_time": 1.941125,
+                "end_time": 2.941125
+            },
+            {
+                "keyword": "sonu\u00e7land\u0131",
+                "start_time": 5.351125,
+                "end_time": 6.351125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.991125,
+                "end_time": 10.991125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/190.wav": [
+            {
+                "keyword": "op\u00e9rations",
+                "start_time": 2.59,
+                "end_time": 3.59
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/191.wav": [
+            {
+                "keyword": "\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432",
+                "start_time": 1.7128125,
+                "end_time": 2.7128125
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.2048125,
+                "end_time": 7.2048125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.0748125,
+                "end_time": 13.0748125
+            },
+            {
+                "keyword": "pokus",
+                "start_time": 15.6048125,
+                "end_time": 16.6048125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/192.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.09,
+                "end_time": 4.09
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 7.6435625,
+                "end_time": 8.6435625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/193.wav": [
+            {
+                "keyword": "eriyor",
+                "start_time": 4.6571875,
+                "end_time": 5.6571875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.3546875,
+                "end_time": 9.3546875
+            },
+            {
+                "keyword": "\u0633\u064a\u0627\u0631\u0629",
+                "start_time": 11.8835625,
+                "end_time": 12.8835625
+            },
+            {
+                "keyword": "\u0628\u0646\u0638\u0631",
+                "start_time": 15.283,
+                "end_time": 16.283
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/194.wav": [
+            {
+                "keyword": "\u0632\u06cc\u0646\u062a",
+                "start_time": 2.68,
+                "end_time": 3.68
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 5.1158125000000005,
+                "end_time": 6.1158125000000005
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.821875,
+                "end_time": 10.821875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/195.wav": [
+            {
+                "keyword": "\u5b89\u571f\u6843\u5c71\u65f6\u4ee3",
+                "start_time": 2.5091875,
+                "end_time": 3.5091875
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 5.432375,
+                "end_time": 6.432375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.062375,
+                "end_time": 10.062375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/196.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.6873125,
+                "end_time": 3.6873125
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 7.450125,
+                "end_time": 8.450125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 19.38775,
+                "end_time": 20.38775
+            },
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 24.397750000000002,
+                "end_time": 25.397750000000002
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/197.wav": [
+            {
+                "keyword": "cht\u011bl",
+                "start_time": 2.3865,
+                "end_time": 3.3865
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.0865,
+                "end_time": 7.0865
+            },
+            {
+                "keyword": "de\u011fi\u015fti",
+                "start_time": 9.6708125,
+                "end_time": 10.6708125
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 13.2808125,
+                "end_time": 14.2808125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/198.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.5440625,
+                "end_time": 3.5440625
+            },
+            {
+                "keyword": "\u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435",
+                "start_time": 6.2140625,
+                "end_time": 7.2140625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.6440625,
+                "end_time": 10.6440625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/199.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.6579375,
+                "end_time": 4.6579375
+            },
+            {
+                "keyword": "\u5170\u5fb7",
+                "start_time": 7.5518125000000005,
+                "end_time": 8.5518125
+            },
+            {
+                "keyword": "cht\u011bl",
+                "start_time": 11.511812500000001,
+                "end_time": 12.511812500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/200.wav": [
+            {
+                "keyword": "\u043e\u0436\u0438\u0432\u0438\u0442\u044c",
+                "start_time": 3.5746875,
+                "end_time": 4.5746875
+            },
+            {
+                "keyword": "\u06af\u0631\u0648\u0647\u06cc",
+                "start_time": 7.184687499999999,
+                "end_time": 8.184687499999999
+            },
+            {
+                "keyword": "\u0642\u0628\u0644",
+                "start_time": 10.13375,
+                "end_time": 11.13375
+            },
+            {
+                "keyword": "\u0633\u0627\u0631\u0647",
+                "start_time": 12.8476875,
+                "end_time": 13.8476875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/201.wav": [
+            {
+                "keyword": "\u0627\u0642\u0644",
+                "start_time": 1.73575,
+                "end_time": 2.73575
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.1060625,
+                "end_time": 7.1060625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/202.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.616375,
+                "end_time": 3.616375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/203.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.40625,
+                "end_time": 3.40625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.73625,
+                "end_time": 6.73625
+            },
+            {
+                "keyword": "\u06a9\u0644\u0627\u0646\u062a\u0631\u06cc",
+                "start_time": 8.8076875,
+                "end_time": 9.8076875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/204.wav": [
+            {
+                "keyword": "\u0631\u0628\u0645\u0627",
+                "start_time": 3.41825,
+                "end_time": 4.4182500000000005
+            },
+            {
+                "keyword": "\u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u044c",
+                "start_time": 6.914375000000001,
+                "end_time": 7.914375000000001
+            },
+            {
+                "keyword": "\u06a9\u0648\u0634\u06cc",
+                "start_time": 9.966625,
+                "end_time": 10.966625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/205.wav": [
+            {
+                "keyword": "\u0628\u0646\u0638\u0631",
+                "start_time": 4.36,
+                "end_time": 5.36
+            },
+            {
+                "keyword": "\u6392\u540d",
+                "start_time": 7.8939375,
+                "end_time": 8.8939375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.698062499999999,
+                "end_time": 13.698062499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 20.378124999999997,
+                "end_time": 21.378124999999997
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/206.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.8406875,
+                "end_time": 2.8406875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.8706875,
+                "end_time": 6.8706875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/207.wav": [
+            {
+                "keyword": "\u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0439",
+                "start_time": 2.57,
+                "end_time": 3.57
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/208.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.1001875,
+                "end_time": 3.1001875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/209.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.5274375,
+                "end_time": 4.5274375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 8.059999999999999,
+                "end_time": 9.059999999999999
+            },
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 11.1985,
+                "end_time": 12.1985
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/210.wav": [
+            {
+                "keyword": "\u0790\u07a9\u0782\u07a8\u0787\u07a6\u0783",
+                "start_time": 2.38,
+                "end_time": 3.38
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.056125,
+                "end_time": 6.056125
+            },
+            {
+                "keyword": "\u0baa\u0bcb\u0b9f\u0bcd\u0b9f",
+                "start_time": 8.3775,
+                "end_time": 9.3775
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.495875,
+                "end_time": 13.495875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/211.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.370875,
+                "end_time": 3.370875
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.084,
+                "end_time": 7.084
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/212.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.221,
+                "end_time": 3.221
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.1271249999999995,
+                "end_time": 8.127125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/213.wav": [
+            {
+                "keyword": "\u06cc\u06a9\u0628\u0627\u0631",
+                "start_time": 2.6485,
+                "end_time": 3.6485
+            },
+            {
+                "keyword": "prot\u00e9ines",
+                "start_time": 6.127062499999999,
+                "end_time": 7.127062499999999
+            },
+            {
+                "keyword": "\u0b95\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95",
+                "start_time": 9.9570625,
+                "end_time": 10.9570625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/214.wav": [
+            {
+                "keyword": "pro\u0161li",
+                "start_time": 2.55,
+                "end_time": 3.55
+            },
+            {
+                "keyword": "cht\u011bl",
+                "start_time": 5.72,
+                "end_time": 6.72
+            },
+            {
+                "keyword": "droit",
+                "start_time": 8.887125,
+                "end_time": 9.887125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.2095625,
+                "end_time": 16.2095625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/215.wav": [
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 1.8386875,
+                "end_time": 2.8386875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/216.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 2.58,
+                "end_time": 3.58
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 5.3023125,
+                "end_time": 6.3023125
+            },
+            {
+                "keyword": "bossu",
+                "start_time": 8.181000000000001,
+                "end_time": 9.181000000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 12.771,
+                "end_time": 13.771
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/217.wav": [
+            {
+                "keyword": "\u0634\u0644\u06cc\u06a9",
+                "start_time": 2.789125,
+                "end_time": 3.789125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.639125,
+                "end_time": 8.639125
+            },
+            {
+                "keyword": "\u0bb0\u0bca\u0bae\u0bcd\u0baa",
+                "start_time": 11.4631875,
+                "end_time": 12.4631875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/218.wav": [
+            {
+                "keyword": "\u0b85\u0bae\u0bc1\u0ba4",
+                "start_time": 3.07475,
+                "end_time": 4.07475
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.4848125,
+                "end_time": 7.4848125
+            },
+            {
+                "keyword": "verilen",
+                "start_time": 9.641937500000001,
+                "end_time": 10.641937500000001
+            },
+            {
+                "keyword": "\u5404\u79cd",
+                "start_time": 13.961937500000001,
+                "end_time": 14.961937500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/219.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.9569375,
+                "end_time": 4.9569375
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.016937500000001,
+                "end_time": 9.016937500000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/220.wav": [
+            {
+                "keyword": "privas",
+                "start_time": 2.52,
+                "end_time": 3.52
+            },
+            {
+                "keyword": "bernalicis",
+                "start_time": 5.52675,
+                "end_time": 6.52675
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.4270625,
+                "end_time": 10.4270625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/221.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.1435625,
+                "end_time": 4.1435625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/222.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.9563125,
+                "end_time": 3.9563125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.2463125,
+                "end_time": 7.2463125
+            },
+            {
+                "keyword": "marois",
+                "start_time": 9.8706875,
+                "end_time": 10.8706875
+            },
+            {
+                "keyword": "\u0637\u0648\u0627\u0644",
+                "start_time": 14.239625,
+                "end_time": 15.239625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/223.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.78,
+                "end_time": 3.752
+            },
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 6.585437499999999,
+                "end_time": 7.585437499999999
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 10.7154375,
+                "end_time": 11.7154375
+            },
+            {
+                "keyword": "\u09a4\u09be\u09f0",
+                "start_time": 14.7746875,
+                "end_time": 15.7746875
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/224.wav": [
+            {
+                "keyword": "\u7ecf\u6d4e\u5b66\u5bb6",
+                "start_time": 4.029375,
+                "end_time": 5.029375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/225.wav": [
+            {
+                "keyword": "\u0637\u0648\u0627\u0644",
+                "start_time": 2.77,
+                "end_time": 3.77
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 6.8877500000000005,
+                "end_time": 7.8877500000000005
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/226.wav": [
+            {
+                "keyword": "rv\u00e1\u010d\u016f",
+                "start_time": 1.956125,
+                "end_time": 2.956125
+            },
+            {
+                "keyword": "bo\u017e\u00ed",
+                "start_time": 5.916125,
+                "end_time": 6.916125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/227.wav": [
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 2.2295,
+                "end_time": 3.2295
+            },
+            {
+                "keyword": "\u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+                "start_time": 6.3294999999999995,
+                "end_time": 7.3294999999999995
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/228.wav": [
+            {
+                "keyword": "\u0b89\u0ba4\u0bbe\u0bb0",
+                "start_time": 4.566375,
+                "end_time": 5.566375
+            },
+            {
+                "keyword": "\u0628\u062f\u062a\u0631",
+                "start_time": 8.3009375,
+                "end_time": 9.3009375
+            },
+            {
+                "keyword": "\u043d\u0443\u0436\u0434\u044b",
+                "start_time": 11.7895,
+                "end_time": 12.7895
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/229.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.9163125,
+                "end_time": 2.9163125
+            },
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 6.6563125,
+                "end_time": 7.6563125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.7363125,
+                "end_time": 10.7363125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 13.9063125,
+                "end_time": 14.9063125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/230.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.070625,
+                "end_time": 3.070625
+            },
+            {
+                "keyword": "tedy",
+                "start_time": 5.223750000000001,
+                "end_time": 6.223750000000001
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 8.80375,
+                "end_time": 9.80375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/231.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.95,
+                "end_time": 4.95
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.43,
+                "end_time": 8.43
+            },
+            {
+                "keyword": "\u043e\u0433\u0440\u0430\u0434\u043e\u0439",
+                "start_time": 10.4329375,
+                "end_time": 11.4329375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/232.wav": [
+            {
+                "keyword": "\u0627\u062c\u0627\u0631\u0647",
+                "start_time": 2.39,
+                "end_time": 3.39
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/233.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 1.84275,
+                "end_time": 2.84275
+            },
+            {
+                "keyword": "pek",
+                "start_time": 4.977625,
+                "end_time": 5.977625
+            },
+            {
+                "keyword": "pek",
+                "start_time": 8.493375,
+                "end_time": 9.493375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/234.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 4.1228125,
+                "end_time": 5.1228125
+            },
+            {
+                "keyword": "\u0643\u0630\u0644\u0643",
+                "start_time": 7.634,
+                "end_time": 8.634
+            },
+            {
+                "keyword": "eriyor",
+                "start_time": 10.76875,
+                "end_time": 11.76875
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 15.249875000000001,
+                "end_time": 16.249875000000003
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/235.wav": [
+            {
+                "keyword": "\u0628\u0627\u0628\u0627\u0645",
+                "start_time": 7.2415625,
+                "end_time": 8.2415625
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.8649375,
+                "end_time": 10.8649375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/236.wav": [
+            {
+                "keyword": "\u06a9\u0648\u062f\u062a\u0627",
+                "start_time": 2.4000625,
+                "end_time": 3.4000625
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 8.1200625,
+                "end_time": 9.1200625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/237.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.68,
+                "end_time": 3.68
+            },
+            {
+                "keyword": "\u0632\u06cc\u0646\u062a",
+                "start_time": 5.907375,
+                "end_time": 6.907375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 9.439125,
+                "end_time": 10.439125
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/238.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.321375,
+                "end_time": 3.321375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/239.wav": [
+            {
+                "keyword": "toilette",
+                "start_time": 2.8525625,
+                "end_time": 3.8525625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/240.wav": [
+            {
+                "keyword": "\u062c\u062f\u0627",
+                "start_time": 2.7589375,
+                "end_time": 3.7589375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 6.4248125,
+                "end_time": 7.4248125
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 9.5071875,
+                "end_time": 10.5071875
+            },
+            {
+                "keyword": "tedy",
+                "start_time": 14.211875000000001,
+                "end_time": 15.211875000000001
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/241.wav": [
+            {
+                "keyword": "droit",
+                "start_time": 3.63,
+                "end_time": 4.63
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/242.wav": [
+            {
+                "keyword": "\u0634\u0648\u0647\u0631\u062a\u0647",
+                "start_time": 2.0920625,
+                "end_time": 3.0920625
+            },
+            {
+                "keyword": "s\u00e9ance",
+                "start_time": 4.7399375,
+                "end_time": 5.7399375
+            },
+            {
+                "keyword": "\u0628\u0639\u0636",
+                "start_time": 8.422625,
+                "end_time": 9.422625
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/243.wav": [
+            {
+                "keyword": "\u064a\u0627\u0628\u0627\u0646\u064a",
+                "start_time": 1.89,
+                "end_time": 2.8899999999999997
+            },
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 7.5465,
+                "end_time": 8.5465
+            },
+            {
+                "keyword": "tomu",
+                "start_time": 11.937,
+                "end_time": 12.937
+            },
+            {
+                "keyword": "\u0434\u043e\u0440\u043e\u0433\u0438\u0435",
+                "start_time": 14.504375,
+                "end_time": 15.504375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/244.wav": [
+            {
+                "keyword": "\u0627\u06cc\u0645",
+                "start_time": 2.840375,
+                "end_time": 3.808375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 11.678374999999999,
+                "end_time": 12.678374999999999
+            },
+            {
+                "keyword": "etme",
+                "start_time": 16.508375,
+                "end_time": 17.508375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/245.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 3.1715,
+                "end_time": 4.1715
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/246.wav": [
+            {
+                "keyword": "dvoupl\u00e1\u0161\u0165ov\u00fdch",
+                "start_time": 4.6,
+                "end_time": 5.6
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/247.wav": [
+            {
+                "keyword": "\u062e\u0648\u0627\u0647\u0645",
+                "start_time": 2.96,
+                "end_time": 3.96
+            },
+            {
+                "keyword": "\u0645\u0631\u06cc\u0636\u06cc",
+                "start_time": 6.8100000000000005,
+                "end_time": 7.8100000000000005
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/248.wav": [
+            {
+                "keyword": "traducteur",
+                "start_time": 4.063375,
+                "end_time": 5.063375
+            }
+        ]
+    },
+    {
+        "./DATA/TEST_DUMMY_FINAL/249.wav": [
+            {
+                "keyword": "tedy",
+                "start_time": 1.848625,
+                "end_time": 2.848625
+            },
+            {
+                "keyword": "droit",
+                "start_time": 5.68925,
+                "end_time": 6.68925
+            },
+            {
+                "keyword": "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f",
+                "start_time": 8.4469375,
+                "end_time": 9.4469375
+            },
+            {
+                "keyword": "droit",
+                "start_time": 12.118500000000001,
+                "end_time": 13.118500000000001
+            }
+        ]
+    }
+]
