@@ -120,3 +120,32 @@ def extract_keyword_timestamps(audio_path):
     # Convert sample indices to timestamps
     timestamps = [(start * hop_length / sr, end * hop_length / sr) for start, end in zip(starts, ends)]
     return timestamps
+
+def accuracy(ground_truth,result_data):
+    correct_matches = 0
+    total_predictions = 0
+    total_ground_truth = 0
+
+    # Iterate through the results
+    for file, predictions in result_data:
+        for el in ground_truth_annotations:
+            if el.keys()[0] == file:
+        ground_truth_annotations = ground_truth[file]
+        total_ground_truth += len(ground_truth_annotations)
+        total_predictions += len(predictions)
+        
+        # Match predictions with ground truth
+        for pred in predictions:
+            for gt in ground_truth_annotations:
+                # Check for keyword match and time overlap
+                if pred["keyword"] == gt["keyword"]:
+                    if not (pred["end_time"] < gt["start_time"] or pred["start_time"] > gt["end_time"]):
+                        correct_matches += 1
+                        break
+
+    # Calculate accuracy
+    accuracy = correct_matches / total_predictions if total_predictions > 0 else 0
+
+    print(f"Correct Matches: {correct_matches}")
+    print(f"Total Predictions: {total_predictions}")
+    print(f"Accuracy: {accuracy:.2%}")

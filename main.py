@@ -1,5 +1,5 @@
 import streamlit as st
-import librosa
+import os
 import json
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,23 +8,28 @@ from pathlib import Path
 import os
 import zipfile
 from extract_timeStamps import *
+from inference import *
 import pickle
+import librosa
 # Streamlit UI
 st.title("Few Shot Language Agnostic Keyword Spotting (FSLAKWS)")
 @st.cache_data
-def process_audio_files(found_wav_files):
+def process_audio_files(found_wav_files,id_key):
     result_list = []
-    for idx, wav_file in enumerate(found_wav_files):
+    for idx, wav_file in enumerate(found_wav_files[:3]):
         timestamps = extract_keyword_timestamps(wav_file)
         kw_ts = []
         for idx, (start, end) in enumerate(timestamps):
             segment_name = f"{os.path.basename(wav_file).split('.')[0]}_start_{start}_end_{end}_{idx + 1}"
             cut_audio_segment(wav_file, start, end, "audio_samples", segment_name)
+            model = EmbeddingClassifier()
+            final_idx=inference(model, "./audio_samples/"+segment_name+".wav", device)
             kw_ts.append({
                 "start_time": start,
                 "end_time": end,
-                "keyword": idx
+                "keyword": id_key[final_idx]
             })
+
         result_list.append({
             wav_file: kw_ts
         })
@@ -61,8 +66,8 @@ if uploaded_zip:
                 found_wav_files.append(os.path.join(root, file))
             elif file.lower() == 'kw_to_id.pkl':
                 kw_to_id_path = os.path.join(root, file)
-            # elif file.lower().endswith('.pkl'):
-            #     p = os.path.join(root, file)
+            elif file.lower().endswith('.pkl'):
+                p = os.path.join(root, file)
                 
                   
               
@@ -71,9 +76,9 @@ if uploaded_zip:
 
     # Display number of .wav files found
     st.success(f"Found {len(found_wav_files)} .wav files ")
-    # if p:
-    #     with open(p, 'rb') as kw_file:
-    #         dummy = pickle.load(kw_file)
+    if p:
+        with open(p, 'rb') as kw_file:
+            dummy = pickle.load(kw_file)
         
     #     with open("dummy.json", 'w') as json_file:
     #                 json.dump(dummy, json_file, indent=4)    
@@ -81,6 +86,10 @@ if uploaded_zip:
     if kw_to_id_path:
         with open(kw_to_id_path, 'rb') as kw_file:
             kw_to_id = pickle.load(kw_file)
+            print(kw_to_id)
+            print(type(kw_to_id))
+
+            id_to_kw = {kw_to_id[k]:k for k in kw_to_id}
     #     json_output_path = "kw_to_id.json"
     
     # # Dump the data into a JSON file
@@ -90,14 +99,15 @@ if uploaded_zip:
         st.error("Could not find 'kw_to_id.pkl' in the ZIP archive.")        
             
     with st.spinner("Processing audio..."):
-        result_list = process_audio_files(found_wav_files)
+        result_list = process_audio_files(found_wav_files,id_to_kw)
 
 # Show a success message once processing is complete
+    accuracy(dummy,result_list)
     st.success("Finished working!")
             
     with open("result.json", 'w') as json_file:
         json.dump(result_list, json_file, indent=4) 
-            
+                    
 
     
     
